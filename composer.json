@@ -1,0 +1,20 @@
+{
+  "name": "user/mvc",
+  "autoload": {
+    "psr-4": {
+      "User\\Mvc\\": "src/"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "chihab",
+      "email": "chihab.mg.me@gmail.com"
+    }
+  ],
+  "require": {}
+}
